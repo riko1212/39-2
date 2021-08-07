@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": ";AAAA;;;GAGG;AEHH,AAAA,MAAM,GAAG,CAAC,CAAC;EACP,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "main.scss",
+        "_example.scss",
+        "_header.scss",
+        "_hero.scss",
+        "_about.scss",
+        "_blog.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
